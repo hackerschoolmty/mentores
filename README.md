@@ -21,13 +21,13 @@ Una herramienta útil para llegar a lo esencial es:
 3. Sientate a leerlo y quita todo lo que no sea esencial para tu historia.
 4. Repite este proceso las veces que puedas.  
 
-### Rebota tu Outline con un par de personas
+### Rebota tu Outline con un par de personas
 
 Prepara tu tema con anticipación, rebotalo con personas dentro del equipo y busca contarles tu tema en una plática corta. Escuchar tu propio outline en un pitch de 15 minutos suele ser suficiente para identificar cambios tu mismo, cualquier agregado externo es un bonus.
 
 Se muy receptivo al feedback y toma lo que veas necesario. Las opiniones son importantes pero el liderazgo del tema no es consensual, debe haber un autor claro.
 
-### Sobreprepárate (pero solo toca lo esencial)
+### Sobreprepárate (pero solo toca lo esencial)
 
 Cada tema y subtema tienen un nivel de complejidad alto, pero en las sesiones suele tocarse unicamente la superficie o unos centimetros más.
 
@@ -63,7 +63,7 @@ En general usa solo live coding con un editor que resalte el lenguaje de program
 
 En lo posible prepara esto antes de la sesión.  
 
-### Si debes usar código en slides usa fondos oscuros o negros
+### Si debes usar código en slides usa fondos oscuros o negros
 
 Si debes usar código en slides los fondos oscuros evitan malas experiencias con proyectores viejos o demasiado sol. No te excedas en la cantidad de código. Si te ves en la presentación preguntando si se alcanza a leer, es un pointer de que el slide contiene demasiada información.
 
@@ -77,9 +77,9 @@ Sigue el guideline de Steve Jobs por default:
 
 El resumen de esos pointers es: Usa poco texto en los slides pero ten buen contenido para platicar. Más de 20 minutos de slides por sesión no es necesariamente malo pero si es una bandera roja.
 
-## Código
+## Sobre el Código
 
-### Exagera en la simplicidad de tus ejemplos
+### Exagera en la simplicidad de tus ejemplos
 
 Cuando uses ejemplos para explicar simplifica exageradamente.
 
@@ -87,7 +87,7 @@ I.E. No construyas una aplicación para administrar una escuela construye un reg
 
 Minimiza las ramificaciones de dudas no relevantes.
 
-### Usa checkpoints
+### Usa checkpoints
 
 Un checkpoint es el punto intermedio entre tener nada y tener el ejemplo completo. Los checkpoints son útiles cuando te pierdes o copias mal una parte del live code. Organízalos en archivos (o folders cuando aplique) con el nombre de tu ejemplo y números. I.E.:
 
@@ -106,13 +106,14 @@ Aprovecha tus checkpoints para hacer demos parciales del avance. Los resultados 
 
 Busca que tu código sea claro y sencillo de seguir. Idealmente debe ser lo suficientemente claro como para que el grupo pueda clonar el repositorio, ver el readme y seguirlo sin tu ayuda. Sabemos que esta métrica es exigente pero es importante apuntar a ella.
 
-## Etiqueta
 
-### Llega a tiempo
+## Sobre la Etiqueta
+
+### Llega a tiempo
 
 La cualidad más importante de Hacker School es que todos estamos ahí porque queremos. Esto puede relajar lo suficiente a los alumnos y mentores para estar abiertos a errores y fallas. No dejemos que suceda, valoremos el tiempo, interes y pasión de cada persona.
 
-### Aprendete los nombres de tus alumnos
+### Aprendete los nombres de tus alumnos
 
 La primera conexión está en llamar a tus alumnos por su nombre. En general nadie es bueno para acordarse de los nombres (aun). Utiliza esta oportunidad para hacerte bueno en ello.
 
