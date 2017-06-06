@@ -1,5 +1,30 @@
 # Guía de preparación de sesiones para Mentores
 
+* [Sobre la preparación del tema](#sobre-la-preparación-del-tema)
+  * [Cuenta una historia](#cuenta-una-historia)
+  * [Calidad > Cantidad](#calidad--cantidad)
+  * [Planea demasiado, corta contenido y luego corta un poco más](#planea-demasiado-corta-contenido-y-luego-corta-un-poco-más)
+  * [Rebota tu Outline con un par de personas](#rebota-tu-outline-con-un-par-de-personas)
+  * [Sobreprepárate](#sobreprepárate-pero-solo-toca-lo-esencial)
+  * [Enséñale a tu hij@](#enséñale-a-tu-hij)
+  * [La pasión se contagia](#la-pasión-se-contagia)
+* [Sobre los slides](#sobre-los-slides)
+  * [Comunica el beneficio del tema](#comunica-el-beneficio-del-tema)
+  * [Usa gráficas](#usa-gráficas-cuando-sea-necesario)
+  * [Código en vivo](#código-en-vivo)
+  * [Fondos oscuros](#si-debes-usar-código-en-slides-usa-fondos-oscuros-o-negros)
+  * [10-20-30](#10-20-30-ish)
+* [Sobre el código](#sobre-el-código)
+  * [Exagera la simplicidad de tus ejemplos](#exagera-en-la-simplicidad-de-tus-ejemplos)
+  * [Usa checkpoints](#usa-checkpoints)
+  * [Demos frecuentes](#demos-frecuentes)
+  * [Imaginate que no estarás allí](#imagína-que-no-estarás-presente-para-enseñarlo)
+* [Sobre la etiqueta](#sobre-la-etiqueta)
+  * [Llega a tiempo](#llega-a-tiempo)
+  * [Aprendete los nombres](#aprendete-los-nombres-de-tus-alumnos)
+  * [Interésate](#interésate)
+* [Coolabora con esta guía](#coolabora-con-esta-guía)
+
 ## Sobre la preparación del tema
 
 ### Cuenta una historia
